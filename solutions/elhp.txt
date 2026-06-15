@@ -1,0 +1,23 @@
+// Solved with GitSolve AI
+// Platform   : codechef
+// Problem    : Welcome to the CodeChef AI Tutor
+// URL        : https://www.codechef.com/problems/ELHP
+// Difficulty : Unknown
+// Language   : unknown
+// Saved at   : 2026-06-15T11:18:35.778Z
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int x, y;
+    cin >> x >> y;
+
+    if(x >= (2 * y))
+        cout << "YES" << endl;
+    else    
+        cout << "NO" << endl;
+
+    return 0;
+}
