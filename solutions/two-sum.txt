@@ -1,0 +1,24 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : 1. Two Sum
+// URL        : https://leetcode.com/problems/two-sum/
+// Difficulty : Unknown
+// Language   : mysql
+// Saved at   : 2026-06-15T05:31:23.846Z
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+      vector<int> ans;
+        for(int i=0;i<nums.size()-1;i++)
+        {
+            for(int j=i+1;j<nums.size();j++)
+            {
+                if(nums[i]+nums[j]==target)
+               { ans.push_back(i);
+                ans.push_back(j);}
+            }
+        }
+        return ans;
+    }
+};
