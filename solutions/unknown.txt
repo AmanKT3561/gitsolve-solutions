@@ -1,0 +1,23 @@
+// Solved with GitSolve AI
+// Platform   : codechef
+// Problem    : Election Hopes
+// URL        : https://www.codechef.com/viewsolution/1118791361
+// Difficulty : Unknown
+// Language   : unknown
+// Saved at   : 2026-06-15T11:18:18.578Z
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int x, y;
+    cin >> x >> y;
+
+    if(x >= (2 * y))
+        cout << "YES" << endl;
+    else    
+        cout << "NO" << endl;
+
+    return 0;
+}
