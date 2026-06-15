@@ -1,0 +1,26 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : 2130. Maximum Twin Sum of a Linked List
+// URL        : https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+// Difficulty : Unknown
+// Language   : mysql
+// Saved at   : 2026-06-15T05:28:43.835Z
+
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        int res = 0;
+        ListNode* left = head;
+
+        auto dfs = [&](this auto&& dfs, ListNode* right) -> void {
+            if (right->next)
+                dfs(right->next);
+
+            res = max(res, left->val + right->val);
+            left = left->next;
+        };
+
+        dfs(head);
+        return res;
+    }
+};
