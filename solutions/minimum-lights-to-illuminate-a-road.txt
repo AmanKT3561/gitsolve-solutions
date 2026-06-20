@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q2. Minimum Lights to Illuminate a Road
+// URL        : https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-06-20T15:05:16.443Z
+
+[0,0,0,0][0,0,0,2,0][2,0,1,0,0,0,0]
