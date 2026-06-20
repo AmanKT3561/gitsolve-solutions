@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q3. Finish Time of Tasks I
+// URL        : https://leetcode.com/problems/finish-time-of-tasks-i/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-06-20T15:14:25.085Z
+
+3[[0,1],[1,2]][9,5,3]3[[0,1],[0,2]][4,7,6]4[[0,1],[0,2],[2,3]][5,8,2,1]
