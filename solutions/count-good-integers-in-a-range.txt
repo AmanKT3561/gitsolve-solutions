@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q4. Count Good Integers in a Range
+// URL        : https://leetcode.com/problems/count-good-integers-in-a-range/
+// Difficulty : Hard
+// Language   : unknown
+// Saved at   : 2026-06-20T14:52:09.488Z
+
+1015120120427191142995290706
