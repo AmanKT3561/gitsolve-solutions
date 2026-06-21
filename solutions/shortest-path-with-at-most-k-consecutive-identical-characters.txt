@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q3. Shortest Path With At Most K Consecutive Identical Characters
+// URL        : https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-06-21T02:56:39.034Z
+
+3[[0,1,1],[1,2,1],[0,2,3]]"aab"13[[0,1,1],[1,2,1],[0,2,3]]"aab"23[[0,1,1],[1,2,1]]"aaa"2
