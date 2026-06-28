@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q2. Filter Occupied Intervals
+// URL        : https://leetcode.com/problems/filter-occupied-intervals/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-06-28T02:47:00.790Z
+
+[[2,6],[4,8],[10,10],[10,12],[14,16]]711[[1,5],[2,3]]38[[1,1],[2,2]]100100
