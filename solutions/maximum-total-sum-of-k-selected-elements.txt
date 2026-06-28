@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q1. Maximum Total Sum of K Selected Elements
+// URL        : https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-06-28T02:34:55.707Z
+
+[6,1,2,9]32[3,7,5,2]24[4,4]11
