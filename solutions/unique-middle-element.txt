@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q1. Unique Middle Element
+// URL        : https://leetcode.com/problems/unique-middle-element/
+// Difficulty : Easy
+// Language   : unknown
+// Saved at   : 2026-07-04T14:35:18.085Z
+
+[1,2,3][1,2,2]
