@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q1. Minimum Queen Moves to Reach Target
+// URL        : https://leetcode.com/problems/minimum-queen-moves-to-reach-target/
+// Difficulty : Easy
+// Language   : unknown
+// Saved at   : 2026-09-26T14:35:52.850Z
+
+[8,1][1,8][4,2][1,3][1,1][1,1][4,4][4,5]
