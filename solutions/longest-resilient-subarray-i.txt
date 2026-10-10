@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q2. Longest Resilient Subarray I
+// URL        : https://leetcode.com/problems/longest-resilient-subarray-i/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-10-10T14:45:13.631Z
+
+[2,4,6,3]2[1,4,7,1]3[5,5,4,8]4
