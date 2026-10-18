@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q2. Last Visited Cell in a Directional Grid
+// URL        : https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/
+// Difficulty : Medium
+// Language   : unknown
+// Saved at   : 2026-10-18T02:42:06.306Z
+
+[["R","D"],["U","L"]][["R","R","R"]]
