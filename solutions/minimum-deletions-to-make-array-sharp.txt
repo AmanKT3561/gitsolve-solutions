@@ -1,0 +1,9 @@
+// Solved with GitSolve AI
+// Platform   : leetcode
+// Problem    : Q1. Minimum Deletions to Make Array Sharp
+// URL        : https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/
+// Difficulty : Easy
+// Language   : unknown
+// Saved at   : 2026-10-18T02:33:38.800Z
+
+[1,1,2,2,2,3][4,4,9,4]
